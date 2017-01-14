@@ -1,0 +1,1525 @@
+[
+  {
+    "venue": "Room 1",
+    "title": "Patterns for application development with ASP.NET Core",
+    "speakers": [
+      "Damian Edwards",
+      "David Fowler"
+    ],
+    "day": "Wednesday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Migrating to serverless - an experience report",
+    "speakers": [
+      "Gojko Adzic"
+    ],
+    "day": "Wednesday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "The beauty of stupid ideas",
+    "speakers": [
+      "Aaron Powell"
+    ],
+    "day": "Wednesday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "IdentityServer4: New & Improved for ASP.NET Core",
+    "speakers": [
+      "Brock Allen",
+      "Dominick Baier"
+    ],
+    "day": "Wednesday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "clTwelve-Factor Apps in .NET",
+    "speakers": [
+      "Ian Cooper"
+    ],
+    "day": "Wednesday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Look Mommy, No GC!",
+    "speakers": [
+      "Dina Goldshtein"
+    ],
+    "day": "Wednesday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "Taming Cloud Complexity with F# DSLs",
+    "speakers": [
+      "Yan Cui"
+    ],
+    "day": "Wednesday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 8",
+    "title": "Functional C++",
+    "speakers": [
+      "Kevlin Henney"
+    ],
+    "day": "Wednesday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "An Opinionated Approach to Using ASP.NET Core",
+    "speakers": [
+      "Scott Allen"
+    ],
+    "day": "Wednesday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Serverless Architecture - Tales from a world without servers",
+    "speakers": [
+      "Robin Weston"
+    ],
+    "day": "Wednesday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Life with actors: experience report",
+    "speakers": [
+      "Vagif Abilov",
+      "Erlend Wiig"
+    ],
+    "day": "Wednesday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "A/S/L? : Why collecting user data is about more than just forms",
+    "speakers": [
+      "Chad Gowler"
+    ],
+    "day": "Wednesday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Service Oriented Technologies: Designing, Developing, & Implementing WCF and the Web API",
+    "speakers": [
+      "Miguel Castro"
+    ],
+    "day": "Wednesday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Back to Basics: Efficient Async and Await",
+    "speakers": [
+      "Filip Ekberg"
+    ],
+    "day": "Wednesday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "Distributed scaling with Erlang",
+    "speakers": [
+      "Natalia Chechina"
+    ],
+    "day": "Wednesday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 8",
+    "title": "Better Code: Runtime Polymorphism",
+    "speakers": [
+      "Sean Parent"
+    ],
+    "day": "Wednesday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Workshop/Lightning Talks",
+    "title": "Empathy Dojo",
+    "speakers": [
+      "Marina Haase"
+    ],
+    "day": "Wednesday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "Building JavaScript and mobile/native Clients for Token-based Architectures",
+    "speakers": [
+      "Dominick Baier",
+      "Brock Allen"
+    ],
+    "day": "Wednesday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Using AWS Lambda and Azure Functions to develop serverless applications",
+    "speakers": [
+      "Rajpal Singh Wilkhu"
+    ],
+    "day": "Wednesday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Debugging Your Website with Fiddler and Chrome Developer Tools",
+    "speakers": [
+      "Robert Boedigheimer"
+    ],
+    "day": "Wednesday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Getting the best out of ASP.NET Core in Azure",
+    "speakers": [
+      "Jon Galloway"
+    ],
+    "day": "Wednesday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "An Introduction to CQRS and Event Sourcing Patterns",
+    "speakers": [
+      "Mathew McLoughlin"
+    ],
+    "day": "Wednesday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "0-60 in the .NET Framework - Software development for Formula 1",
+    "speakers": [
+      "Chris Alexander"
+    ],
+    "day": "Wednesday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "Thirteen ways of looking at a Turtle",
+    "speakers": [
+      "Scott Wlaschin"
+    ],
+    "day": "Wednesday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 8",
+    "title": "Fastware",
+    "speakers": [
+      "Andrei Alexandrescu"
+    ],
+    "day": "Wednesday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Workshop/Lightning Talks",
+    "title": "Lightning talks",
+    "speakers": [
+      "Christos Matskas",
+      "Ilya Verbitskiy Benjamin Hodgson",
+      "Chris O'Dell",
+      "João Lebre"
+    ],
+    "day": "Wednesday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "Head to Head",
+    "speakers": [
+      "Rob Conery",
+      "Jon Skeet",
+      "Kathleen Dollard"
+    ],
+    "day": "Wednesday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Elasticsearch - Do, Don'ts and Pro-Tips",
+    "speakers": [
+      "Itamar Syn-Hershko"
+    ],
+    "day": "Wednesday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "How to build real-world applications with Orleans",
+    "speakers": [
+      "Sergey Bykov"
+    ],
+    "day": "Wednesday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "VSCode: Tips and Tricks",
+    "speakers": [
+      "Sahil Malik"
+    ],
+    "day": "Wednesday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Data + Docker = Disconbobulating?",
+    "speakers": [
+      "Stephanie Locke"
+    ],
+    "day": "Wednesday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Get Reactive with RxJS",
+    "speakers": [
+      "Venkat Subramaniam"
+    ],
+    "day": "Wednesday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "The Async Arrow",
+    "speakers": [
+      "Troy Kershaw"
+    ],
+    "day": "Wednesday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 8",
+    "title": "Thinking Outside the Synchronisation Quadrant",
+    "speakers": [
+      "Kevlin Henney"
+    ],
+    "day": "Wednesday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Workshop/Lightning Talks",
+    "title": "Functional Programming Lab hour",
+    "speakers": [
+      "Bryan Hunter"
+    ],
+    "day": "Wednesday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "What were they thinking? Language design choices that seem wrong, until they don't.",
+    "speakers": [
+      "Bill Wagner"
+    ],
+    "day": "Wednesday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Effective deployment of Microservices with Terraform and Consul",
+    "speakers": [
+      "James Nugent"
+    ],
+    "day": "Wednesday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Punishment Driven Development",
+    "speakers": [
+      "Louise Elliott"
+    ],
+    "day": "Wednesday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Ops and Operability",
+    "speakers": [
+      "Dan North"
+    ],
+    "day": "Wednesday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "How to Scale .NET Apps with Distributed Caching",
+    "speakers": [
+      "Iqbal Khan"
+    ],
+    "day": "Wednesday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Building Fast and Beautiful Apps with Xamarin.Forms",
+    "speakers": [
+      "Michael Ridland"
+    ],
+    "day": "Wednesday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "Branching Out with Elm",
+    "speakers": [
+      "Dave Fancher"
+    ],
+    "day": "Wednesday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 8",
+    "title": "Better Code: Concurrency",
+    "speakers": [
+      "Sean Parent"
+    ],
+    "day": "Wednesday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "JavaScript Patterns for 2017",
+    "speakers": [
+      "Scott Allen"
+    ],
+    "day": "Wednesday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Cloud nano-bots: Strongly-Typed State Machines In The Cloud",
+    "speakers": [
+      "John Azariah"
+    ],
+    "day": "Wednesday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "This Is My 10-Year-Plan. What's yours?",
+    "speakers": [
+      "Mark Rendle"
+    ],
+    "day": "Wednesday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Introducing ASP.NET Core Sockets",
+    "speakers": [
+      "David Fowler",
+      "Damian Edwards"
+    ],
+    "day": "Wednesday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Delivering unicorns",
+    "speakers": [
+      "Kasia Mrowca"
+    ],
+    "day": "Wednesday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Creating a real-world Xamarin application architecture using MVVM",
+    "speakers": [
+      "Gill Cleeren"
+    ],
+    "day": "Wednesday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "Functional C#",
+    "speakers": [
+      "Dave Fancher"
+    ],
+    "day": "Wednesday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 8",
+    "title": "Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks",
+    "speakers": [
+      "Kevlin Henney"
+    ],
+    "day": "Wednesday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "TBA",
+    "speakers": [
+      "Jon Skeet"
+    ],
+    "day": "Thursday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Testing Tools for Python",
+    "speakers": [
+      "Austin Bingham"
+    ],
+    "day": "Thursday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Node.js Security",
+    "speakers": [
+      "Ilya Verbitskiy"
+    ],
+    "day": "Thursday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "What are Graph Databases and Why should I care?",
+    "speakers": [
+      "Dave Bechberger"
+    ],
+    "day": "Thursday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "UX Patterns for Developers",
+    "speakers": [
+      "Nicole Saidy",
+      "Jad Joubran"
+    ],
+    "day": "Thursday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Aurelia: Next Generation Web Apps",
+    "speakers": [
+      "Ashley M Grant"
+    ],
+    "day": "Thursday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "Let’s Get Lazy—The Real Power of Functional Programming",
+    "speakers": [
+      "Venkat Subramaniam"
+    ],
+    "day": "Thursday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 8",
+    "title": "The C++ Type System is your Friend",
+    "speakers": [
+      "Hubert Matthews"
+    ],
+    "day": "Thursday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "An independent look at the arc of .NET",
+    "speakers": [
+      "Kathleen Dollard"
+    ],
+    "day": "Thursday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Build Your Own Azure",
+    "speakers": [
+      "Mark Rendle"
+    ],
+    "day": "Thursday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Web Application Security: Browsers Fight Back!",
+    "speakers": [
+      "Christian Wenz"
+    ],
+    "day": "Thursday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Identity Server 4 with Angular 2 and ASP.NET Core",
+    "speakers": [
+      "Ben Cull"
+    ],
+    "day": "Thursday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Avoiding Microservice Megadisasters",
+    "speakers": [
+      "Jimmy Bogard"
+    ],
+    "day": "Thursday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Angular War Stories",
+    "speakers": [
+      "Adam Stephensen",
+      "Duncan Hunter"
+    ],
+    "day": "Thursday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "From Dependency injection to dependency rejection",
+    "speakers": [
+      "​Mark Seemann"
+    ],
+    "day": "Thursday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "Abusing C# More",
+    "speakers": [
+      "Jon Skeet"
+    ],
+    "day": "Thursday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "A world of devices",
+    "speakers": [
+      "Laurent Bugnion"
+    ],
+    "day": "Thursday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Get to grips with asyncio in Python 3",
+    "speakers": [
+      "Robert Smallshire"
+    ],
+    "day": "Thursday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Consolidating Services With Middleware",
+    "speakers": [
+      "Christian Horsdal"
+    ],
+    "day": "Thursday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Engineering for Engineering's Sake",
+    "speakers": [
+      "Mindaugas Mozūras"
+    ],
+    "day": "Thursday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "The Afterlife: Languages after JavaScript",
+    "speakers": [
+      "Jennifer Wong"
+    ],
+    "day": "Thursday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "Pipe Forward: Using Elixir and F# Together",
+    "speakers": [
+      "Bryan Hunter"
+    ],
+    "day": "Thursday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Workshop/Lightning Talks",
+    "title": "Communicating in the Face of Conflict - Communication Dojo",
+    "speakers": [
+      "Marina Haase"
+    ],
+    "day": "Thursday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "Get Func-y: Delegates in .NET",
+    "speakers": [
+      "Jeremy Clark"
+    ],
+    "day": "Thursday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Never RESTing – RESTful API Best Practices using ASP.NET Web API",
+    "speakers": [
+      "Spencer Schneidenbach"
+    ],
+    "day": "Thursday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Broken Crypto is Broken",
+    "speakers": [
+      "Erlend Oftedal"
+    ],
+    "day": "Thursday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "ARM FTW – Azure Resource Manager For The Win",
+    "speakers": [
+      "Magnus Mårtensson"
+    ],
+    "day": "Thursday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Humanitarian Toolbox",
+    "speakers": [
+      "Richard Campbell"
+    ],
+    "day": "Thursday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "The Seif Project",
+    "speakers": [
+      "Douglas Crockford"
+    ],
+    "day": "Thursday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "TBA",
+    "speakers": [
+      "Mathias Brandewinder"
+    ],
+    "day": "Thursday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 8",
+    "title": "C++17, part 1: The Language Features",
+    "speakers": [
+      "Nicolai Josuttis"
+    ],
+    "day": "Thursday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Workshop/Lightning Talks",
+    "title": "Lightning talks",
+    "speakers": [
+      "Kristian Brimble",
+      "Chris Klug",
+      "Robert Rees",
+      "Carl Franklin",
+      "Sandeep Singh"
+    ],
+    "day": "Thursday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "Holographic Programming – Exploring the HoloLens",
+    "speakers": [
+      "Lars Klint"
+    ],
+    "day": "Thursday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "self.improve(): Building a Technical Career",
+    "speakers": [
+      "Erika Carlson"
+    ],
+    "day": "Thursday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Hacking Humans : Social Engineering Techniques and How to Protect Against Them",
+    "speakers": [
+      "​Stephen Haunts"
+    ],
+    "day": "Thursday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "TBA",
+    "speakers": [
+      "Robby Ingebretsen"
+    ],
+    "day": "Thursday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Lean accessibility: Building inclusive design into your agile workflow",
+    "speakers": [
+      "Elle Waters"
+    ],
+    "day": "Thursday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "TypeScript – JavaScript for C# devs",
+    "speakers": [
+      "Chris Klug"
+    ],
+    "day": "Thursday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 8",
+    "title": "C++17 part 2: The Library Features",
+    "speakers": [
+      "Nicolai Josuttis"
+    ],
+    "day": "Thursday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Workshop/Lightning Talks",
+    "title": "Functional Programming Lab hour",
+    "speakers": [
+      "Bryan Hunter"
+    ],
+    "day": "Thursday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "Complexity Theory and You",
+    "speakers": [
+      "Rob Conery"
+    ],
+    "day": "Thursday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Web Performance Deep Dive",
+    "speakers": [
+      "Chander Dhall"
+    ],
+    "day": "Thursday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "TBA",
+    "speakers": [
+      "​Runa A. Sandvik"
+    ],
+    "day": "Thursday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Of Elephants and Butterflies...",
+    "speakers": [
+      "Sabine Wojcieszak"
+    ],
+    "day": "Thursday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "There's a Hologram in my UI!",
+    "speakers": [
+      "Jessica Engström"
+    ],
+    "day": "Thursday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Debugging Browser JavaScript",
+    "speakers": [
+      "​Todd H. Gardner"
+    ],
+    "day": "Thursday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "TBA",
+    "speakers": [
+      "Evelina Gabasova"
+    ],
+    "day": "Thursday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": ".NET Rocks Live!",
+    "speakers": [
+      "Carl Franklin",
+      "Richard Campbell"
+    ],
+    "day": "Thursday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Mob Programming, A Whole Team Approach",
+    "speakers": [
+      "Woody Zuill"
+    ],
+    "day": "Thursday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Agile in a Business to Business relationship",
+    "speakers": [
+      "Camilla Brown"
+    ],
+    "day": "Thursday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Squeezing the Hardware to Make Performance Juice",
+    "speakers": [
+      "Sasha Goldshtein"
+    ],
+    "day": "Thursday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Feed the links, tuples' a bag – Intro to Linked Data APIs",
+    "speakers": [
+      "Sebastien Lambla"
+    ],
+    "day": "Thursday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Redux, beyond React",
+    "speakers": [
+      "Aaron Powell"
+    ],
+    "day": "Thursday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "The Book of F# (the 60 Minute Human Edition)",
+    "speakers": [
+      "Dave Fancher"
+    ],
+    "day": "Thursday",
+    "start": "17:40:00",
+    "end": "18:40:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "Using EEG and Azure Machine Learning to Perform Lie Detection",
+    "speakers": [
+      "Jennifer Marsman"
+    ],
+    "day": "Friday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Focus on the User: Making the World a Better Place",
+    "speakers": [
+      "Jeremy Clark"
+    ],
+    "day": "Friday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "The Velvet Revolution: Dockerizing Legacy ASP.NET Apps",
+    "speakers": [
+      "Elton Stoneman"
+    ],
+    "day": "Friday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Fast as hell!",
+    "speakers": [
+      "Luca Mezzalira"
+    ],
+    "day": "Friday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "High Tech Delight - Programming the 'Hard' out of Hardware",
+    "speakers": [
+      "Suz Hinton"
+    ],
+    "day": "Friday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Techniques and practices for testing Angular 2",
+    "speakers": [
+      "Duncan Hunter",
+      "Adam Stephensen"
+    ],
+    "day": "Friday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "TBA",
+    "speakers": [
+      "Tomas Petricek"
+    ],
+    "day": "Friday",
+    "start": "09:00:00",
+    "end": "10:00:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "Visualise, document and explore your software architecture",
+    "speakers": [
+      "Simon Brown"
+    ],
+    "day": "Friday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Deploying Windows Containers",
+    "speakers": [
+      "Ben Hall"
+    ],
+    "day": "Friday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "The how-dare-you-call-me-an-idiot’s guide to the .NET Standard",
+    "speakers": [
+      "Matt Ellis"
+    ],
+    "day": "Friday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Deep .NET Debugging with WinDBG",
+    "speakers": [
+      "Tess Ferrandez"
+    ],
+    "day": "Friday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Enhanced AML fraud detection solutions with Azure Machine Learning",
+    "speakers": [
+      "Ravi Kanth"
+    ],
+    "day": "Friday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Next Generation Asynchronous Patterns in JavaScript",
+    "speakers": [
+      "Jonathan Mills"
+    ],
+    "day": "Friday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "Phoenix - an Intro to Elixir's Web Framework",
+    "speakers": [
+      "Sonny Scroggin"
+    ],
+    "day": "Friday",
+    "start": "10:20:00",
+    "end": "11:20:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "Exploring Pattern Matching in C#",
+    "speakers": [
+      "Bill Wagner"
+    ],
+    "day": "Friday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Monitor your containers",
+    "speakers": [
+      "Philipp Krenn"
+    ],
+    "day": "Friday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Showdown: ASP.NET Core vs Elixir Phoenix",
+    "speakers": [
+      "Mathew Glodack"
+    ],
+    "day": "Friday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Eat. Code. Run? Repeat.",
+    "speakers": [
+      "Julia Mitchelmore"
+    ],
+    "day": "Friday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Predicting the future as a service with Azure ML and R",
+    "speakers": [
+      "Barbara Fusinska"
+    ],
+    "day": "Friday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Writing better tests for your JavaScript app",
+    "speakers": [
+      "Jake Ginnivan"
+    ],
+    "day": "Friday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "TBA",
+    "speakers": [
+      "Josh Adams"
+    ],
+    "day": "Friday",
+    "start": "11:40:00",
+    "end": "12:40:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "So many Docker platforms, so little time...",
+    "speakers": [
+      "​Michele Bustamante"
+    ],
+    "day": "Friday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Agile is dead! Long live DevOps!",
+    "speakers": [
+      "Martin Hinshelwood"
+    ],
+    "day": "Friday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Mobile testing for grown ups",
+    "speakers": [
+      "Alexandra Marin"
+    ],
+    "day": "Friday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Conversations for the masses",
+    "speakers": [
+      "Peter Drougge"
+    ],
+    "day": "Friday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Scaling applications with Azure Redis Cache and Machine Learning",
+    "speakers": [
+      "Stefano Tempesta"
+    ],
+    "day": "Friday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "The Victorian Age of JavaScript",
+    "speakers": [
+      "Eric Brandes"
+    ],
+    "day": "Friday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "TBA",
+    "speakers": [
+      "Sonny Scroggin"
+    ],
+    "day": "Friday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Workshop/Lightning Talks",
+    "title": "Lightning talks",
+    "speakers": [
+      "Michal Franc",
+      "Andy Davies",
+      "Peter Ibbotson",
+      "Tugberk Ugurlu",
+      "Barry Stahl"
+    ],
+    "day": "Friday",
+    "start": "13:40:00",
+    "end": "14:40:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "Brownfields DevOps in Practice",
+    "speakers": [
+      "Damian Brady"
+    ],
+    "day": "Friday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Microsoft Graph - The Future of Calling Microsoft APIs",
+    "speakers": [
+      "Simon Jäger"
+    ],
+    "day": "Friday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Starting from Scratch with your first IoT Project",
+    "speakers": [
+      "Jessica Ellis"
+    ],
+    "day": "Friday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "PowerShell for the C# dev",
+    "speakers": [
+      "Peter Ibbotson"
+    ],
+    "day": "Friday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Chatbots: The hype, challenges and opportunities",
+    "speakers": [
+      "Galiya Warrier"
+    ],
+    "day": "Friday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "The (Awesome) Future of Web Apps",
+    "speakers": [
+      "Jad Joubran"
+    ],
+    "day": "Friday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "C# 7",
+    "speakers": [
+      "Kathleen Dollard"
+    ],
+    "day": "Friday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Workshop/Lightning Talks",
+    "title": "Functional Programming Lab hour",
+    "speakers": [
+      "Bryan Hunter"
+    ],
+    "day": "Friday",
+    "start": "15:00:00",
+    "end": "16:00:00"
+  },
+  {
+    "venue": "Room 1",
+    "title": "The Post JavaScript Apocalypse",
+    "speakers": [
+      "Douglas Crockford"
+    ],
+    "day": "Friday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 2",
+    "title": "Real world DevOps with the Microsoft ALM Rangers",
+    "speakers": [
+      "Wouter de Kort"
+    ],
+    "day": "Friday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 3",
+    "title": "Set Yourself Free with (a) DocumentDB",
+    "speakers": [
+      "Roland Guijt"
+    ],
+    "day": "Friday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 4",
+    "title": "Neural networks by example",
+    "speakers": [
+      "Katya Mustafina",
+      "Natalia An"
+    ],
+    "day": "Friday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 5",
+    "title": "Go, Microservices and all the joy!",
+    "speakers": [
+      "Andrzej Grzesik"
+    ],
+    "day": "Friday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 6",
+    "title": "Microsoft Cognitive Services: Making AI Easy",
+    "speakers": [
+      "Jennifer Marsman"
+    ],
+    "day": "Friday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "Room 7",
+    "title": "TBA",
+    "speakers": [
+      "Josh Adams"
+    ],
+    "day": "Friday",
+    "start": "16:20:00",
+    "end": "17:20:00"
+  },
+  {
+    "venue": "TBA",
+    "title": "PubConf",
+    "speakers": [
+      "​Todd H. Gardner"
+    ],
+    "day": "Friday",
+    "start": "18:40:00",
+    "end": "23:30:00"
+  }
+]
