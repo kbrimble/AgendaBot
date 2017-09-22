@@ -123,6 +123,9 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgendaDialog.cs" />
+    <Compile Include="AgendaSearchService.cs" />
+    <Compile Include="AgendaTalk.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\MessagesController.cs" />
     <Compile Include="Global.asax.cs">

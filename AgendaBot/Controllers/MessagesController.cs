@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 using System.Web.Http.Description;
+using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
 using Newtonsoft.Json;
 
@@ -13,6 +14,13 @@ namespace AgendaBot
     [BotAuthentication]
     public class MessagesController : ApiController
     {
+        private readonly Func<IDialog<object>> _makeRootFactory;
+
+        public MessagesController(Func<IDialog<object>> makeRootFactory)
+        {
+            _makeRootFactory = makeRootFactory;
+        }
+
         /// <summary>
         /// POST: api/Messages
         /// Receive a message from a user and reply to it
@@ -21,13 +29,7 @@ namespace AgendaBot
         {
             if (activity.Type == ActivityTypes.Message)
             {
-                ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
-                // calculate something for us to return
-                int length = (activity.Text ?? string.Empty).Length;
-
-                // return our reply to the user
-                Activity reply = activity.CreateReply($"You sent {activity.Text} which was {length} characters");
-                await connector.Conversations.ReplyToActivityAsync(reply);
+                await Conversation.SendAsync(activity, _makeRootFactory).ConfigureAwait(false);
             }
             else
             {
